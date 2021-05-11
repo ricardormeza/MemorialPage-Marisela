@@ -33,7 +33,7 @@ body{
 }
 /* main */
 .main{
-    margin-top: 3.125rem;
+    margin-top: 17.125rem;
 }
 @media (max-width: 768px) {
     .main{
